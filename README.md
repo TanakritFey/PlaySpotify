@@ -9,7 +9,7 @@ This project is a music player application built using React, Tailwind CSS, and 
 
 - Seamless integration with RapidAPI for fetching song data.
 - Tailwind CSS customization for an aesthetically pleasing UI.
-- Play, stop, next song, previous song, volume control, and song duration selection functionalities.
+- Play, stop, next song, previous song, volume control, random song , repeat song and song duration selection functionalities.
 - Display of artist names, currently playing song, and a tab bar for music playback.
 - Dynamic appearance of a music playback bar when a song is selected.
 
